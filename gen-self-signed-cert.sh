@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Usage: ./gencert.sh <FQDN>
-# Example: ./gencert.sh harbor.outofmemory.info
+# Usage: ./gen-self-signed-cert.sh <FQDN>
+# Example: ./gen-self-signed-cert.sh harbor.outofmemory.info
 
 # Ensure OpenSSL is installed
 if ! command -v openssl &> /dev/null
