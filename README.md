@@ -1,3 +1,1 @@
-# Automate-x
-
-Frequently used automation and scripts to go along with https://www.outofmemory.info/
+Examples, automation and helpers for various products.
